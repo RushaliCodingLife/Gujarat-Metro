@@ -1,0 +1,227 @@
+[
+    {
+        "id" : "1",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/w/t/r/-original-imaggj68cgtdacxn.jpeg?q=70",
+        "title" : "SAMSUNG Galaxy S22 Ultra 5G ",
+        "desc" : " Phantom Black, 1TB, 12 GB RAM",
+        "rating" : "4.2",
+        "price" : "₹1,18,999",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "2",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/9/f/p/-original-imaghxenhnpyhn5u.jpeg?q=70",
+        "title" : "APPLE iPhone 14 Pro Max",
+        "desc" : "Space Black, 512 GB",
+        "rating" : "4.7",
+        "price" : "₹1,69,900",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "3",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/x/l/-original-imaggfmg9yqbyphj.jpeg?q=70",
+        "title" : "MOTOROLA Edge 30 Ultra",
+        "desc" : "Starlight White, 256 GB, 12 GB RAM",
+        "rating" : "4.1",
+        "price" : "₹59,999",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "4",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/jkbguq80/mobile/2/s/m/sony-xperia-xz2-na-original-imaf7zvvhuxxf7hf.jpeg?q=70",
+        "title" : "SONY Xperia XZ2",
+        "desc" : "Liquid Chrome, 64 GB, 6 GB RAM",
+        "rating" : "3.9",
+        "price" : "₹74,990",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "5",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70",
+        "title" : "Google Pixel 7 Pro",
+        "desc" : "Snow, 128 GB, 12 GB RAM",
+        "rating" : "4.5",
+        "price" : "₹84,999",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "6",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2rwzgw0/trimmer/9/t/1/0-25-4-mm-s5582-20-stainless-steel-cordless-philips-original-imagefg9u7byhnzn.jpeg?q=70",
+        "title" : "PHILIPS S5582/20 Trimmer",
+        "desc" : "60 min Runtime 1 Length Settings, Blue",
+        "rating" : "3.2",
+        "price" : "₹6,600",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "7",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2arp8w0/water-purifier/g/2/c/110100-kent-original-imagdzbqhhtmxgup.jpeg?q=70",
+        "title" : "KENT GRAND STAR ",
+        "desc" : "9 L RO + UF + UV + UV_LED + TDS Control Water Purifier, White",
+        "rating" : "4.6",
+        "price" : "₹19,500",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "8",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kuvkcy80/refrigerator-new/q/r/9/rf87a9770sg-182-5-na-2021-161-samsung-86-1-91-2-original-imag7wefdby7e5jw.jpeg?q=70",
+        "title" : "SAMSUNG 865 L",
+        "desc" : "Frost Free French Door Bottom Mount Refrigerator, Black Caviar, RF87A9770SG",
+        "rating" : "4.0",
+        "price" : "₹2,62,980",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "9",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/jwpa8i80/washing-machine-new/2/g/g/wau28460in-bosch-original-imafhbh3dxengxvg.jpeg?q=70",
+        "title" : "BOSCH 10 kg",
+        "desc" : "Fully Automatic Front Load with In-built Heater White, WAU28460IN",
+        "rating" : "3.5",
+        "price" : "₹78,399",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "10",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/smartwatch/g/7/l/-original-imagh932jrkynahy.jpeg?q=70",
+        "title" : "SAMSUNG Watch 5 pro 45mmSuper",
+        "desc" : "AMOLED displayBluetooth callingwith advanced GPS tracking, Gray Titanium Strap, Free Size",
+        "rating" : "4.3",
+        "price" : "₹44,999",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "11",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l30hmkw0/bed/s/x/8/king-208-gold-no-224-teak-sagun-yes-300-ak9678n-alishaank-165-original-image7vmnzfwcaaw.jpeg?q=70",
+        "title" : "alishaank TEAK WOOD ROYAL ELITE Solid Wood King Box Bed",
+        "desc" : "Finish Color - METALIC, Delivery Condition - DIY",
+        "rating" : "3.3",
+        "price" : "₹2,85,000",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "12",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l0h1g280/side-table/m/7/u/45-45-5-particle-board-16-aero-bedside-table-godrej-interio-50-3-original-imagc9f6tm5f4ezk.jpeg?q=70",
+        "title" : "Godrej Interio Aero Engineered Wood Almirah",
+        "desc" : "Finish Color - Cream, Knock Down",
+        "rating" : "3.5",
+        "price" : "₹1,00,641",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "13",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/office-study-chair/o/0/c/1-foam-66-eec-711-encore-127-original-imaghysctghzfhcn.jpeg?q=70",
+        "title" : "Encore Leatherette Office Adjustable Arm Chair",
+        "desc" : " Black",
+        "rating" : "3.7",
+        "price" : "₹1,35,900",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "14",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/sofa-sectional/x/f/7/omega-l-shape-sofa-semi-aniline-leather-durian-grey-battleship-original-imaee74zgecjpsag.jpeg?q=70",
+        "title" : "Durian Omega Leather 2 Seater Sofa",
+        "desc" : "Finish Color - BATTLESHIP GREY, Knock Down",
+        "rating" : "3.4",
+        "price" : "₹2,34,520",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "15",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/dining-table/g/o/s/180-6-seater-100-plywood-1000010999747-home-centre-75-black-original-imaggtadewqaaq7v.jpeg?q=70",
+        "title" : "Home Centre Engineered Wood 6 Seater Dining Table",
+        "desc" : "Finish Color - Black, Pre-assembled",
+        "rating" : "3.9",
+        "price" : "₹88,499",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "16",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/b/l/x/40-lxsfcclh545953-louis-philippe-original-imagj6zadzqugmhj.jpeg?q=70",
+        "title" : "LOUIS PHILIPPE ",
+        "desc" : "Men Slim Fit Printed Formal Shirt",
+        "rating" : "4.1",
+        "price" : "₹6,999",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "17",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/u/8/34-a2amn150-tommy-hilfiger-original-imagjdyjsyqdg4pf.jpeg?q=70",
+        "title" : "TOMMY HILFIGER ",
+        "desc" : "Slim Fit Men Khaki Cotton Blend Trousers",
+        "rating" : "₹6,999",
+        "price" : "4.2",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "18",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/suit/y/s/r/42-lx-do-losel3-navy-blackberrys-original-imagejcjauxwzzg8-bb.jpeg?q=70",
+        "title" : "Blackberrys",
+        "desc" : "3 piece suit Solid Men Suit",
+        "rating" : "4.5",
+        "price" : "₹24,995",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "19",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/belt/z/j/e/30-belts-lpbljrgff222002-belts-louis-philippe-original-imaghu7zh4twujyf.jpeg?q=70",
+        "title" : "LOUIS PHILIPPE ",
+        "desc" : "Men Casual Brown Genuine Leather Belt",
+        "rating" : "3.9",
+        "price" : "₹3,999",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "20",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/wallet-card-wallet/9/7/k/leather-perforated-wallet-0-59-1-6832br-8-wallet-ohm-new-york-4-original-imagav4bfdbjj3az.jpeg?q=70",
+        "title" : "OHM New York ",
+        "desc" : "Men Casual, Formal, Trendy Tan Genuine Leather RFID Wallet, 8 Card Slots",
+        "rating" : "4.0",
+        "price" : "₹5,699",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "21",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2nmnww0/flour/k/r/a/-original-imagdyy7ykmgzgeg.jpeg?q=70",
+        "title" : "AASHIRVAAD",
+        "desc" : "Shudh Chakki Atta, 10 kg",
+        "rating" : "4.9",
+        "price" : "₹384",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "22",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/ky0g58w0/rice/k/k/j/1-black-karuppu-kavuni-1kg-pack-of-5-husking-black-rice-pouch-original-imagac9pq8mff38f.jpeg?q=70",
+        "title" : "Weefa Karuppu Kavuni 1Kg",
+        "desc" : "(pack of 5) Black Black Rice Full Grain, Husking",
+        "rating" : "1.2",
+        "price" : "₹1,249",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "23",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/chocolate/y/z/s/500-assorted-chocolate-poids-gift-box-1-patchi-original-imagj865zzfst9zu.jpeg?q=70",
+        "title" : "Patchi MILK CHOCOLATE POIDS",
+        "desc" : "GIFT BOX Bars, 500 g",
+        "rating" : "4.1",
+        "price" : "₹7,999",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "24",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kzygpzk0/fmcg-combo/r/w/0/premium-quality-arhar-and-moong-mogar-dal-combo-750-g-each-6-original-imagbuvdyysmegpw.jpeg?q=70",
+        "title" : "Goshudh Premium Quality Arhar And Moong Mogar Dal Combo",
+        "desc" : "750 g each Combo, Arhar Dal 750 gm, Moong Mogar Dal 750 gm",
+        "rating" : "3.1",
+        "price" : "₹450",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "25",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kfwvcsw0/ready-meal/4/a/u/1140-ready-to-eat-paneer-tikka-masala-285g-pack-of-4-gits-original-imafw9z7zyhhsnrx.jpeg?q=70",
+        "title" : "Gits Ready to Eat Paneer Tikka Masala",
+        "desc" : "285g, Pack of 4, 1140 g",
+        "rating" : "3.4",
+        "price" : "₹580",
+        "catg" : "Grocery"
+    }
+]

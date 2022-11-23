@@ -1,0 +1,30 @@
+
+.nav-item{
+    font-size: 20px;
+}
+
+.container-card{
+
+height: 288px; /* Make this site really long */
+overflow: hidden; 
+}
+
+footer{
+    padding: 1px;
+}
+
+.nav-link a :hover{
+    color: rgb(131, 121, 121);
+}
+
+.navbar-text{
+    font-size: 20px;
+}
+
+
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
